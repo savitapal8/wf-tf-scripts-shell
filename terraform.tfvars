@@ -1,0 +1,8 @@
+access_token = ""
+cluster_name = "cluster-demo"
+cluster_pool = ""
+sa_name = "sa-demo-cluster"
+location = "us-central1"
+project = "airline1-sabre-wolverine"
+release_name = "release1"
+helm_path = "k8s-deployment-helm"
